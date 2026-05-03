@@ -1,4 +1,4 @@
-.# Hi, I'm Shantanu Kasale 👋
+# Hi, I'm Shantanu Kasale 👋
 
 ## 🚀 About Me
 

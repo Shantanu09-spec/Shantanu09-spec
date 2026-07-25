@@ -1,5 +1,4 @@
 # Hi, I'm Shantanu Kasale 👋
-ngh
 
 ## 🚀 About Me
 

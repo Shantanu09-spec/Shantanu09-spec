@@ -5,6 +5,7 @@
 Passionate developer focused on building practical solutions and growing through consistent learning.
 
 Currently exploring:
+.
 
 * Python
 * Artificial Intelligence

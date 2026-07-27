@@ -30,7 +30,6 @@ Currently exploring:
 ## ☎️ Communication Tech
 
 * Twilio Integration
-* .
 * Voice Workflow Systems
 
 ## 🎯 Goals

@@ -11,6 +11,8 @@ Currently exploring:
 * Open Source
 * Web Development
 
+* 
+
 ## 💻 Current Focus
 
 * Building real-world projects

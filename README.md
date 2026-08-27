@@ -9,9 +9,7 @@ Currently exploring:
 * Python
 * Artificial Intelligence
 * Open Source
-* Web Development
-
-* 
+* Web Development 
 
 ## 💻 Current Focus
 
